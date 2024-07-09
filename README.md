@@ -5,3 +5,4 @@ Estado del proyecto en construccion.`
 para ejecutar el sistema, debes poner:
 
 ´´´npm install react´´´
+segunda actualizacion, utilizar git pull
